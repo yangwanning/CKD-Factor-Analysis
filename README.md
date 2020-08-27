@@ -17,8 +17,15 @@ factor among all possible information.
 * Bayes Theory
 * Random Forest
 4. Data Modeling and Evaluation<br>
-5. Conclusion and Recommendations<br>
+
 
 <b>Conclusions:</b>
 
+From our analysis, "Age" is a highly important factor, indicating that elderly people are more prone to develop CKD. Beside, factors such as "Hypertension", "Diabetes", "Anemia", "Stroke" are also likely to lead to kidney disease. Other factors like "Smoker", "Weight" and some other healthy issues such as "CHF (Congestive Heart Failure)", "CVD (cardiovascular disease)" could also constitute risks.
+
+In order to make our survey easy for interviewees to conduct, we decided to chose 6 strongest risk factors as our survey questions. In this way, our final predictive model can be more simple and interpretable.
+
+
 <b>Recommendations:</b>
+
+Finally, we hope people can pay more attention to their health as well as their families. Chronic kidney disease may not become apparent until your kidney function is significantly impaired. Thus, taking regular screenings for CKD is necessary if you are at high risk (check our analysis), especially for elderly people, and controlling conditions like diabetes (check our analysis) can also help.
